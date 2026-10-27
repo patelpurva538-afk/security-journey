@@ -20,12 +20,6 @@ lighter, single-VM architecture that still demonstrates real detection.
 - OpenSSH Server
 - Hydra (attack simulation)
 
-## Build Log
-1. [VM Setup](./01-vm-setup.md)
-2. [SSH and Docker Install](./02-ssh-and-docker-install.md)
-3. [Wazuh Deployment](./03-wazuh-deployment.md)
-4. [RAM Troubleshooting](./04-ram-troubleshooting.md)
-
 ## Why the Redesign
 The original lab used three separate VMs (manager, target, attacker),
 which required internal network configuration and consistently exceeded
@@ -33,3 +27,6 @@ available RAM, leading to repeated crashes and an unrecoverable VM state.
 Redesigning around a single VM removed the networking complexity entirely
 while preserving the same core learning outcome: real SIEM deployment and
 real attack detection.
+
+## Investigations
+- [Brute Force Self-Attack](./01-brute-force-self-attack.md)

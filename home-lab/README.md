@@ -30,3 +30,5 @@ real attack detection.
 
 ## Investigations
 - [Brute Force Self-Attack](./01-brute-force-self-attack.md)
+- [Alert Triage Analysis](./02-alert-triage-gap-analysis.md)
+

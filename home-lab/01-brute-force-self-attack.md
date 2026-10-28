@@ -24,4 +24,4 @@ attempt produced no alert - and fixing it by understanding how Docker
 containers and host-level agents relate - is a real troubleshooting skill,
 not just following a guide.  
 
-
+![Wazuh MITRE detection](./Screenshot%202026-10-27%20161457.png)

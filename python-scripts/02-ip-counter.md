@@ -19,3 +19,5 @@ Counting occurrences by key is one of the most common patterns in real
 log analysis - the same logic scales from 5 log lines to millions,
 letting an analyst instantly see which IP, which user, or which event
 type is happening most, without manually scanning raw logs.
+
+![IP counter output](./Screenshot%202026-11-01%20152035.png)

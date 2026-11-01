@@ -20,3 +20,5 @@ move around, extra text gets added, formats vary between systems.
 Regex-based extraction is the actual technique used in real log parsing
 because it finds a pattern anywhere in messy text, rather than relying
 on a fixed position that breaks the moment log formatting changes.
+
+![Regex IP extraction output](./Screenshot%202026-11-01%20152750.png)

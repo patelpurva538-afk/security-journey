@@ -21,3 +21,5 @@ large log files and surfacing only the relevant/suspicious lines instead
 of manually scanning everything. Debugging the folder-path error
 independently (understanding why it failed, not just fixing it blindly)
 is itself a real, transferable skill.
+
+![Log filter output](./Screenshot%202026-11-01%20081656.png)

@@ -21,3 +21,5 @@ that gracefully rather than letting the script crash with a raw Python
 error is a basic but essential professional habit, and testing both the
 success and failure paths (not just assuming the fix works) is itself
 good practice.
+
+![Error handling test](./Screenshot%202026-11-02%20141321.png)
